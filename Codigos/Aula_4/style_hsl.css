@@ -1,0 +1,9 @@
+.cor{
+   background-color: hsl(0,100%,50%);
+}
+.cor2{
+    background-color: hsl(120,100%,50%);
+}
+.cor3{
+    background-color: hsla(240,30%,70%,0.1);
+}

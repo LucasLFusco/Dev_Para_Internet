@@ -1,0 +1,16 @@
+h1{
+    margin-top: 80px;
+    margin-left: 600px;
+    margin-bottom: 80px;
+    background-color: DarkSlateGrey;
+}
+
+.cor1{ background-color: red; }
+.cor2{ background-color: green; }
+.cor3{ background-color: blue; }
+.cor4{ background-color: yellow; }
+.cor5{ background-color: grey; }
+.cor6{
+    background-color: black;
+    color: white;
+}
