@@ -8,7 +8,7 @@ h1{
     font-size: 20pt;
 }
 .corpo{
-    width: 600px; /* 70% da largura do navegador  */
+    width: 63%; /* 70% da largura do navegador  */
     border: 1px solid red;
     margin: 0 auto;
 }
@@ -18,10 +18,12 @@ h1{
 .sec1,.sec2{
     background-color: #888888;
     height: 100vh;
+    width: 100% ;
 }
 nav{
     background-color: blueviolet;
     text-align: center;
+    
 }
 nav a{
     text-decoration: none;
