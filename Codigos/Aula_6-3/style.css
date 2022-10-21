@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 20pt;
+}
+.corpo{
+    width: 600px; /* 70% da largura do navegador  */
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.corpo img{/* formatar as imagens que estão dentro da classe tudo  */
+    width: 100%; /* 100% da largura da class="tudo" */
+}
+.sec1,.sec2{
+    background-color: #888888;
+    height: 100vh;
+}
+nav{
+    background-color: blueviolet;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    
+}
+nav a:hover{
+    background-color: black;
+    transition: all 1s;
+}
